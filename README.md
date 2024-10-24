@@ -15,5 +15,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seren1303&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seren1303&theme=chartreuse_dark&utcOffset=8)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Seren1303&theme=dark)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Seren1303&theme=flat&column=7)](https://github.com/dkssud8150/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Seren1303&theme=flat&column=7)](https://github.com/Seren1303/)
 <hr>
